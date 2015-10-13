@@ -8,5 +8,9 @@ son anda deðiþtirdim
 13213213213212
 
 
+<<<<<<< HEAD
 
 pc den değiştirdim !!!
+=======
+github dan değiştirdim
+>>>>>>> origin/yeni_dallanma
