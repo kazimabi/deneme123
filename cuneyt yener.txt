@@ -1,4 +1,4 @@
-merhaba
+﻿merhaba
 
 
 
@@ -6,3 +6,7 @@ son anda deðiþtirdim
 
 
 13213213213212
+
+
+
+pc den değiştirdim !!!
